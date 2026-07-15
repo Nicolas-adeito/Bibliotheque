@@ -1,8 +1,8 @@
 # Système de Réservation de Salles de Lecture (SRSL)
 
 Réaliser par : 
-Nicolas ADEITO ADIPATENGE
-LUVUEZO LUA  LUVUEZO PATRICK 
+Nicolas ADEITO ADIPATENGE /
+LUVUEZO LUA  LUVUEZO PATRICK /
 EBEKUMU MASOLO Elysee
 
 Ce projet a été réalisé dans un cadre universitaire. Il vise à concevoir et développer une application d'informatisation et de gestion des réservations des salles de lecture pour notre bibliothèque universitaire.
